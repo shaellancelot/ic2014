@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: My - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\mxl\AppData\Local\Temp\RSPA616.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/My.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\聊天软件文件\qq资料\245873004\FileRecv\My\MyView.cpp"
+]
+Creating command line "cl.exe @C:\Users\mxl\AppData\Local\Temp\RSPA616.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/My.pdb" /debug /machine:I386 /out:"Debug/My.exe" /pdbtype:sept  ".\Debug\MainFrm.obj" ".\Debug\My.obj" ".\Debug\MyDoc.obj" ".\Debug\MyView.obj" ".\Debug\StdAfx.obj" ".\Debug\My.res" "
+<h3>Output Window</h3>
+Compiling...
+MyView.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/My.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\MainFrm.sbr" ".\Debug\My.sbr" ".\Debug\MyDoc.sbr" ".\Debug\MyView.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+My.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
